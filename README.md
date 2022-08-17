@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavoaeines
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning HTML, CSS, Python.
+- 🌱 I’m currently learning Data Base, Git, Algoritmos e Logica de programação.
 
 
 <!---
